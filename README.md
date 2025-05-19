@@ -1,4 +1,4 @@
-# Olive Oil Sales Analytics Engineering Project:
+# Olive Oil Sales Analytics Engineering Project
 
 This project dives into sales data for olive oil products, exploring patterns, trends, and geographic insights across the United States. 
 Using **Python, SQLite3, Excel, and Tableau**, I created an ETL pipeline and an interactive Tableau dashboard to uncover valuable business insights.
@@ -11,13 +11,17 @@ How can we leverage data-driven insights to optimize sales strategies, analyze d
 
 ---
 ## Table of Contents
-  - [📂 Project Overview](#-project-overview)
-  - [📊 Live Dashboard:](#-live-dashboard)
-  - [🔍 Key Insights](#-key-insights)
-  - [🗃️ Dataset Details](#️-dataset-details)
-  - [🛠️ ETL Pipeline Process](#️-etl-pipeline-process)
-  - [🧰 Tools \& Technologies Used](#-tools--technologies-used)
-  - [🔮 Future Work](#-future-work)
+- [Olive Oil Sales Analytics Engineering Project](#olive-oil-sales-analytics-engineering-project)
+    - [Business Challenge:](#business-challenge)
+    - [Problem Statement:](#problem-statement)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Live Dashboard:](#live-dashboard)
+  - [Key Insights](#key-insights)
+  - [Dataset Details](#dataset-details)
+  - [ETL Pipeline Process](#etl-pipeline-process)
+  - [Tools \& Technologies Used](#tools--technologies-used)
+  - [Future Work](#future-work)
 
 ---
 
